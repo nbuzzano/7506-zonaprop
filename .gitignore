@@ -1,5 +1,7 @@
 # Ignore Mac system files
 .DS_store
 
-# Ignore csv files
+# Ignore following files
 *.csv
+*.pyc
+*.ipynb_checkpoints
