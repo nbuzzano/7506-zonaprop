@@ -7,7 +7,7 @@ Se desarrolla la primer parte del TP. Esta consiste en analizar el dataset con e
 - 02-outliers-analysis
 - 03-ANOVA-analysis
 
-A continuacion, se decidio investigar ciertas interrogantes las cuales se investigaron en cada notebook que se lista debajo:
+A continuacion, se decidio investigar ciertas interrogantes las cuales se resolvieron en cada notebook que se lista debajo:
 
 - analisis-punto-1: provincias y ciudades que historicamente acumulan los precios mas caros y mas baratos.
 - analisis-punto-2: provincias y ciudades que tienen mayor y menor desvio estandar en sus precios.
